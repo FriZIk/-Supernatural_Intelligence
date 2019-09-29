@@ -1,0 +1,12 @@
+#course
+http://cs231n.github.io/ 
+https://stepik.org/course/76/syllabus
+https://stepik.org/course/512/syllabus
+https://stepik.org/course/50352/
+https://stepik.org/course/3089/
+https://stepik.org/course/83/syllabus
+https://stepik.org/course/217/syllabus
+https://stepik.org/course/95/
+https://stepik.org/course/2461
+#books
+https://habr.com/ru/post/456738/
